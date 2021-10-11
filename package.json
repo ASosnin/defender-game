@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ASosnin/ajs-homeworks.git"
+    "url": "git+https://github.com/ASosnin/defender-game"
   },
   "keywords": [
     "game"
@@ -18,9 +18,9 @@
   "author": "Andrey.Sosnin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ASosnin/ajs-homeworks/issues"
+    "url": "https://github.com/ASosnin/defender-game/issues"
   },
-  "homepage": "https://github.com/ASosnin/ajs-homeworks#readme",
+  "homepage": "https://github.com/ASosnin/defender-game#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.8",
